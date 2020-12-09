@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.createpost {
+    background: rgb(228, 225, 220);
+    padding: 20px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.showposts {
+    padding: 10px 0;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.showposts div {
+    background: rgba(201, 201, 201, 0.8);
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.comments ul {}
